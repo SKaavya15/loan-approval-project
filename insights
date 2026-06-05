@@ -1,1 +1,21 @@
-
+Loan Approval Prediction – Insights
+Dataset Insights
+Credit History is often the most influential factor in loan approval decisions.
+Applicants with stable income and good credit history have higher approval chances.
+Missing values and categorical features require preprocessing before model training.
+Model Insights
+Random Forest provides reliable performance for loan approval classification.
+Feature importance highlights factors that influence approval decisions.
+The model can predict approval status with good accuracy.
+Key Factors Affecting Loan Approval
+Credit History
+Applicant Income
+Loan Amount
+Loan Amount Term
+Education
+Property Area
+Business Insights
+Automated loan screening reduces manual effort.
+Faster loan processing improves customer experience.
+Consistent approval decisions reduce human bias.
+Banks can assess applicant risk more efficiently.
